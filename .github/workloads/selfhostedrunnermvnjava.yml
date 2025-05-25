@@ -2,7 +2,7 @@ name: Build on Self-Hosted EC2
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   build:
